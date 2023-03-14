@@ -8,7 +8,7 @@ This program is a basic version of a Marquee Program i am currently developing.
  
  *I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED FROM THIS PROGRAM, IT IS STILL UNDER DEVELOPMENT, USE AT YOUR OWN RISK.*
 
-This program uses code from **Rob Camick** sorced from *https://tips4java.wordpress.com/2011/04/24/marquee-panel/*
+This program uses code from **Rob Camick** sourced from *https://tips4java.wordpress.com/2011/04/24/marquee-panel/*
 
  > This code is used in the MarqueePanel.java file to create the main marquee effect accross the program frame.
   
