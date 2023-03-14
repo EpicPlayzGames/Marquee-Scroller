@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Marquee-Scroller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Marquee_Scroller_jar</output-path>
+    <root id="archive" name="Marquee-Scroller.jar">
+      <element id="module-output" name="Marquee-Scroller" />
+      <element id="dir-copy" path="/home" />
+    </root>
+  </artifact>
+</component>

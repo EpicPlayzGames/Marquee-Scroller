@@ -25,7 +25,6 @@ public class ApplicationFrame implements KeyListener {
         jTextArea.setEditable(false);
 
         selectButton.setPreferredSize(new Dimension(150,40));
-
         selectButton.addActionListener(ev -> {
             int returnVal = jFileChooser.showOpenDialog(applicationFrame);
             if(returnVal == JFileChooser.APPROVE_OPTION) {
@@ -51,7 +50,9 @@ public class ApplicationFrame implements KeyListener {
         marqueePanel.setScrollWhenFocused(false);
 
         applicationFrame.add(selectButton, BorderLayout.PAGE_END);
+
         jTextArea.addKeyListener(this);
+
         marqueePanel.add(jTextArea);
         applicationFrame.add(marqueePanel);
         applicationFrame.setVisible(true);
@@ -67,8 +68,10 @@ public class ApplicationFrame implements KeyListener {
 
         if(e.getKeyCode()==123){
             marqueePanel.pauseScrolling();
+
         } else if(e.getKeyCode() == 122) {
             marqueePanel.resumeScrolling();
+
         }
 
     }
@@ -77,4 +80,5 @@ public class ApplicationFrame implements KeyListener {
     public void keyReleased(KeyEvent e) {
 
     }
+
 }

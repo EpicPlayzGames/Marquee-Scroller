@@ -21,7 +21,6 @@ public class MarqueePanel extends JPanel
     protected boolean scrollingPaused;
     protected int scrollOffset;
     protected int wrapOffset;
-
     private int preferredWidth = -1;
     private int scrollAmount;
     private int scrollFrequency;

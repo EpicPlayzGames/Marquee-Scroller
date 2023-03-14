@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Marquee-Scroller:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="413e9fa9-395e-4ddf-ba90-53f96079a21a" name="Changes" comment="Initial Commit" />
+    <list default="true" id="413e9fa9-395e-4ddf-ba90-53f96079a21a" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Marquee_Scroller_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/frames/ApplicationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/frames/ApplicationFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/panels/MarqueePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/panels/MarqueePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/epicplayzgames/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/frames/ApplicationFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/frames/ApplicationFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/panels/MarqueePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/panels/MarqueePanel.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,12 +75,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/home/EpicPlayzGames/Downloads/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar",
-    "project.structure.last.edited": "SDKs",
+    "last_opened_file_path": "/media/4TB-Desktop-Drive/JetbrainsToolBox/Projects/Marquee Scroller/target/Marquee-Scroller-0.0.1-DEV.jar",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,7 +94,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/me/epicplayzgames" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.Marquee-Scroller">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.epicplayzgames.Main" />
       <module name="Marquee-Scroller" />
@@ -91,6 +108,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Marquee-Scroller" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Marquee-Scroller-0.0.1-DEV.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="Marquee-Scroller" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Marquee-Scroller" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -116,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678612699125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1678613119261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678613119261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
