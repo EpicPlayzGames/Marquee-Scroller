@@ -6,7 +6,7 @@
 
     <groupId>me.epicplayzgames</groupId>
     <artifactId>Marquee-Scroller</artifactId>
-    <version>0.0.1-DEV</version>
+    <version>0.1.1-DEV</version>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
