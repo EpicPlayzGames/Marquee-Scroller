@@ -9,17 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="413e9fa9-395e-4ddf-ba90-53f96079a21a" name="Changes" comment="Created Build Packages">
+    <list default="true" id="413e9fa9-395e-4ddf-ba90-53f96079a21a" name="Changes" comment="Code Refactor + Semi-Functional Font Text Reading From Files">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WomicLanguage-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/frames/ApplicationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/epicplayzgames/lib/frames/ApplicationFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Marquee-Scroller-0.0.1-DEV.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/frames/ApplicationFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/panels/MarqueePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/epicplayzgames/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/frames/ApplicationFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/epicplayzgames/lib/frames/ApplicationFrame.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678838058599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Code Refactor + Semi-Functional Font Text Reading From Files">
+      <created>1678867306117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678867306117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +206,7 @@
     </ignored-roots>
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Created Build Packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Build Packages" />
+    <MESSAGE value="Code Refactor + Semi-Functional Font Text Reading From Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Refactor + Semi-Functional Font Text Reading From Files" />
   </component>
 </project>

@@ -66,7 +66,7 @@ public class ApplicationFrame implements KeyListener {
 
                         for (String str: array) {
 
-                            womicLanguageRegular = Font.createFont(Font.TRUETYPE_FONT, new File("WomicLanguage-Regular.ttf")).deriveFont(25f);
+                            womicLanguageRegular = Font.createFont(Font.TRUETYPE_FONT, new File("src/main/java/me/epicplayzgames/lib/fonts/WomicLanguage-Regular.ttf")).deriveFont(25f);
                             GraphicsEnvironment graphicsEnvironment = GraphicsEnvironment.getLocalGraphicsEnvironment();
                             graphicsEnvironment.registerFont(womicLanguageRegular);
 
