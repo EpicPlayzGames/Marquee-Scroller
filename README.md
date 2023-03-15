@@ -4,7 +4,7 @@ A Basic Java Marquee Scroller
 This program is a basic version of a Marquee Program i am currently developing.
 
  > This program was built using Java 19. This program is still in development and does not have an official release. It does work in its current
- form to use a basic marquee scroller. It can be cloned and used via linux console or from your IDE with some configureation.
+ form to use a basic marquee scroller. It can be cloned and used via linux console or from your IDE with some configuration. Credit to sources are required.
  
  *I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED FROM THIS PROGRAM, IT IS STILL UNDER DEVELOPMENT, USE AT YOUR OWN RISK.*
 
