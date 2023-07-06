@@ -1,6 +1,8 @@
 # Marquee-Scroller
 A Basic Java Marquee Scroller
 
+## THIS PROJECT HAS BEEN ABANDONED. FUNCTIONALITY NOT GUARENTEED.
+
 This program is a basic version of a Marquee Program i am currently developing.
 
  > This program was built using Java 19. This program is still in development and does not have an official release. It does work in its current
